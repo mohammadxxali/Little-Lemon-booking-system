@@ -5,8 +5,8 @@ Setting up the database connection first in littlelemon/settings.py
 
 ---
 
-*pip install django mysqlclient*
+**pip install django mysqlclient*
 
-*python manage.py migrate*
+**python manage.py migrate*
 
-*python manage.py runserver*
+**python manage.py runserver*
