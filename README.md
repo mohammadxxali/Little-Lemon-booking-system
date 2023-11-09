@@ -10,3 +10,4 @@ Setting up the database connection first in littlelemon/settings.py
 ***python manage.py migrate*
 
 ***python manage.py runserver*
+
